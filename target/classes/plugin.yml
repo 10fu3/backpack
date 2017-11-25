@@ -1,0 +1,6 @@
+name: Backpack
+version: 1.0.8
+main: jp.msfblue1.backpack.Backpack
+commands:
+  pack:
+    descrption: Open back pack.

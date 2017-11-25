@@ -1,0 +1,6 @@
+name: Backpack
+version: ${project.version}
+main: jp.msfblue1.backpack.Backpack
+commands:
+  pack:
+    descrption: Open back pack.
